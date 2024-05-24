@@ -1,8 +1,8 @@
 # ENVR400-codebase
 
-### Data Analysis Code Base and Resources
-### ENVR 400: Research Project in Environmental Science
-### University of British Columbia
+*Data Analysis Code Base and Resources
+ENVR 400: Research Project in Environmental Science
+University of British Columbia*
 
 R code base for common data analysis and mapping problems in ENVR 400 projects. The objective is to provide ideas, code snippets and resources for your data analysis projects.
 
@@ -14,4 +14,4 @@ Each folder contains 1) main.R with the complete R-code for the respective data 
 ### Plot time series data
 *Folder name: time_series*
 
-![alt text](https://github.com/chdraeger/ENVR400-codebase/time_series/blob/main/temp_van_vic_wh.pdf?raw=true)
+![Time series](https://github.com/chdraeger/ENVR400-codebase/main/time_series/temp_van_vic_wh.pdf?raw=true)
