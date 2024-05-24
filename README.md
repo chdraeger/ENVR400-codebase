@@ -14,4 +14,4 @@ Each folder contains 1) main.R with the complete R-code for the respective data 
 ### Plot time series data
 *Folder name: time_series*
 
-![alt text](https://github.com/chdraeger/ENVR400-codebase/time_series/temp_van_vic_wh.pdf?raw=true)
+![alt text](https://github.com/chdraeger/ENVR400-codebase/time_series/blob/main/temp_van_vic_wh.pdf?raw=true)
