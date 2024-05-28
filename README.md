@@ -21,13 +21,13 @@ Each folder contains 1) `main.R` with the complete R-code for the respective dat
 **Content:**
 - read hourly weather data from csv
 - aggregate to daily data
-- ﬁnd correla=on coefficients between different time series
+- ﬁnd correlation coefficients between different time series
 - plot different time series
 
 **Level:** beginner
 
 **Example data:**
-- hourly weather data from Vancouver, Victoria and Whitehorse (12/2022 -01/2024)
+- hourly weather data from Vancouver, Victoria, and Whitehorse (12/2022 -01/2024)
 
 <br clear="left"/>
 
@@ -65,7 +65,7 @@ Each folder contains 1) `main.R` with the complete R-code for the respective dat
 **Level:** beginner
 
 **Example data:**
-- daily average temperatures (2000-2023) for Vancouver, Victoria and Whitehorse
+- daily average temperatures (2000-2023) for Vancouver, Victoria, and Whitehorse
 <br clear="left"/>
 
 
@@ -98,7 +98,7 @@ Each folder contains 1) `main.R` with the complete R-code for the respective dat
 **Content:**
 - ﬁnd latiude/longitude boundary box for a speciﬁc spatial area
 - download features from OpenStreetMap (OSM)
-- visualize data on interac=ve map (Leaﬂet)
+- visualize data on an interactive map (Leaﬂet)
 
 **Level:** beginner
 <br clear="left"/>
@@ -145,7 +145,7 @@ $~~~~~~~~~~~$
 <br clear="left"/>
 
 
-### Download elevation raster data and BC shapeﬁles and visualize
+### Download elevation raster data and Britich Columbia shapeﬁles and visualize
 
 <img align="right" src="https://github.com/chdraeger/ENVR400-codebase/blob/main/map_elevation/map_elevation.jpeg" width="300" height="300">
 
@@ -168,8 +168,7 @@ $~~~~~~~~~~~$
 - Vancouver open data portal: https://opendata.vancouver.ca
 
 ### Mapping
-- OpenStreetMap: free, open geographic database; list of map features: h$ps://wiki.openstreetmap.org/wiki/Map_features
-- Leaﬂet: open-source library for interacAve maps; available as an `R`-package'; list of Leaﬂet providers (map backgrounds): https://leaﬂet-extras.github.io/leaﬂet-providers/preview/
-- `bcmaps`: `R`-package of spatial map layers for British Columbia
-Provides shapeﬁles of British Columbia and subregions, municipalities, hydrological boundaries, ecological regions, drainage areas, etc.
+- OpenStreetMap: free, open geographic database; list of map features: https://wiki.openstreetmap.org/wiki/Map_features
+- Leaﬂet: open-source library for interactive maps; available as an `R`-package; list of Leaﬂet providers (map backgrounds): https://leaﬂet-extras.github.io/leaﬂet-providers/preview/
+- `bcmaps`: `R`-package of spatial map layers for British Columbia; provides shapeﬁles of British Columbia and subregions, municipalities, hydrological boundaries, ecological regions, drainage areas, etc.
 - `elevatr`: `R`-package for downloading elevation data
