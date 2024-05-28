@@ -91,7 +91,7 @@ Each folder contains 1) `main.R` with the complete R-code for the respective dat
 
 ### Download data from OpenStreetMap and plot on interactive map
 
-<img align="right" src="https://github.com/chdraeger/ENVR400-codebase/blob/main/openstreetmap/openstreetmap.png" width="300" height="300">
+<img align="right" src="https://github.com/chdraeger/ENVR400-codebase/blob/main/openstreetmap/garden_park.png" width="300" height="300">
 
 *Folder name: openstreetmap*
 
